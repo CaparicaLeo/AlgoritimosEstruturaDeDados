@@ -1,0 +1,5 @@
+a) Verdadeiro.
+b) Falso.
+c) Verdadeiro.
+d) Verdadeiro.
+e) Verdadeiro.
